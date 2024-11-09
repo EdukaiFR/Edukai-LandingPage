@@ -158,7 +158,7 @@ export const Header = () => {
           rel="noopener noreferrer"
         >
           <Image
-            src={"/logos/Instagram.png"}
+            src={"/logos/instagram.png"}
             width={20}
             height={20}
             alt="Instagram"
